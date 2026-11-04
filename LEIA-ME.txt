@@ -1,0 +1,35 @@
+MEU DIA - como colocar no seu celular de graça
+
+O app é um PWA: uma página web que se instala na tela inicial e abre sem internet.
+Para instalar, o celular precisa abrir a página por um endereço https. Hospedar
+essa pasta em um serviço gratuito resolve. Escolha UMA das opções:
+
+OPÇÃO 1 - Netlify (arrastar e soltar)
+  1. Abra app.netlify.com/drop no navegador.
+  2. Arraste a pasta "meu-dia" (descompactada) para a página.
+  3. Crie uma conta gratuita quando pedir, para o endereço não expirar.
+  4. Abra o endereço gerado no celular.
+
+OPÇÃO 2 - Cloudflare Pages (upload direto)
+  1. Crie uma conta gratuita em dash.cloudflare.com.
+  2. Workers e Pages > Criar > Pages > Upload de ativos.
+  3. Envie os arquivos desta pasta e publique.
+
+OPÇÃO 3 - GitHub Pages
+  1. Crie um repositório público no GitHub e envie os arquivos desta pasta.
+  2. Settings > Pages > Deploy from a branch > main > / (root).
+  Seus dados pessoais NÃO vão para o repositório: ficam só no celular.
+
+INSTALAR NO CELULAR
+  Android (Chrome): menu de três pontos > "Instalar app" (ou "Adicionar à tela inicial").
+  iPhone (Safari): botão Compartilhar > "Adicionar à Tela de Início".
+
+SEUS DADOS
+  Ficam salvos só no aparelho (sem conta). Se limpar os dados do navegador, desinstalar
+  o app ou trocar de celular, eles se perdem. Em Ajustes > Backup dos dados, baixe um
+  backup de vez em quando e restaure no outro aparelho quando precisar.
+
+LEMBRETES
+  O app avisa no horário enquanto estiver aberto ou em segundo plano. Com o app fechado,
+  use Ajustes > Lembretes > "Exportar para o calendário (.ics)" e abra o arquivo no
+  calendário do celular: os alarmes tocam mesmo com o app fechado.
